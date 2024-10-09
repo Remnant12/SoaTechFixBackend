@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SyE5pQWwMLcbDZ2ib5N6ZWFBHBItbpuKd8HXec5WKDM=",
+  "Source": "QuotationService",
+  "BasePath": "_content/QuotationService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechFixSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+053fc54c423a424876cc1309377d687a0bc2f53e")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechFixSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechFixSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
